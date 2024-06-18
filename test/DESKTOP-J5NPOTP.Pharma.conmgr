@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-J5NPOTP.Pharma"
+  DTS:DTSID="{584EBA14-7D8B-4499-8DE4-1FC7DB9EDA20}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-J5NPOTP\HELLO;Initial Catalog=Pharma;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-test-{584EBA14-7D8B-4499-8DE4-1FC7DB9EDA20}DESKTOP-J5NPOTP.Pharma;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
